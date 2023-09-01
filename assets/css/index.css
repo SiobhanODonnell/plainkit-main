@@ -1,0 +1,148 @@
+*,
+*:after,
+*:before {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+  
+@font-face {
+    font-family: "Unica77LLSub-Regular";
+    src: url("http://localhost:8888/plainkit-main/assets/fonts/Unica77LLSub-Regular.woff") format("woff");
+}
+  
+@font-face {
+    font-family: "Unica77LLSub-Regular";
+    src: url("http://localhost:8888/plainkit-main/assets/fonts/Unica77LLSub-Regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Unica77LLSub-Bold";
+    src: url("http://localhost:8888/plainkit-main/assets/fonts/Unica77LLSub-Bold.woff") format("woff");
+}
+  
+@font-face {
+    font-family: "Unica77LLSub-Bold";
+    src: url("http://localhost:8888/plainkit-main/assets/fonts/Unica77LLSub-Bold.woff2") format("woff2");
+}
+
+a {
+    color: currentColor;
+    text-decoration: none;
+}
+
+.callout, .cta, .email {
+    color: #e94196;
+}
+
+html {
+    max-width: 1200px;
+    margin: auto;
+    font-family: "Unica77LLSub-Regular";
+    font-size: 16px;
+    line-height: 22.4px;
+    color: #333;
+}
+
+body {
+    margin: 3rem;
+}
+
+header {
+    margin-bottom: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    font-family: "Unica77LLSub-Bold";
+    font-size: 18px;
+    line-height: 22.4px;
+}
+
+header a:hover {
+    color: #e94196;
+}
+
+.menu {
+    display: flex;
+    flex-direction: column;
+}
+
+.menu a {
+    margin-left: 1.5rem;
+    text-align: right;
+}
+
+h1 {
+    font-family: "Unica77LLSub-Regular";
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 22.4px;
+    margin-top: 6rem;
+}
+
+img {
+    width: 100%;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0;
+
+}
+
+.projects {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    list-style: none;
+    grid-gap: 2rem;
+}
+
+.tag, .services-header {
+    font-family: "Unica77LLSub-Bold";
+}
+
+.services {
+    list-style-type: none;
+}
+
+.gallery {
+    list-style: none;
+}
+
+.tagline {
+    margin-top: 6rem;
+    font-family: "Unica77LLSub-Regular";
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22.4px;
+    color: #333; 
+}
+
+.next {
+    float: right;
+}
+
+.project-details {
+    margin-top: 1.5rem;
+    margin-bottom: 3rem;
+    list-style: none;
+    width: 600px;
+}
+
+.about {
+    width: 620px;
+}
+
+@media only screen and (max-width: 768px) {
+    .projects {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+@media only screen and (max-width: 710px) {
+    .project-details {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 710px) {
+    .about {
+        width: 100%;
+    }
+}
