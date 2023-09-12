@@ -4,7 +4,7 @@ Client: <span class="tag">Client</span> — Anheuser-Busch InBev, via IFF
 ----
 Year: <span class="tag">Year</span> — 2023
 ----
-Description: International Flavors & Fragrances (IFF) creates innovative ingredients for today's beverage market. This series of fiber-infused water flavors was developed for Anheuser-Busch InBev.
+Description: International Flavors & Fragrances (IFF) creates innovative ingredients for today's beverage market. This series of refreshing fiber-infused water flavors was developed for Anheuser-Busch InBev.
 ----
 Credit1: <span class="tag">Account Manager</span> — Elissa Siracusa
 ----
