@@ -1,0 +1,9 @@
+Title: <span class="tag">Project</span> — Food Photography
+----
+Client: <span class="tag">Client</span> — IFF
+----
+Year: <span class="tag">Year</span> — 2023
+----
+Description: ExecOnline is a pioneer in the online leadership development space. In tandem with the company's rapid expansion, this guide was created to facilitate the onboarding process for new marketing team members.
+----
+Credit1: <span class="tag">Styling & Photography</span> — Siobhan O'Donnell
