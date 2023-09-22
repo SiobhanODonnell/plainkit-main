@@ -10,11 +10,11 @@
 <body>
 
     <header>
-        <a href="<?= $site->url() ?>">O'Donnell <br>Design.</a>
+        <a href="<?= $site->url() ?>">O'Donnell <br>Design</a>
 
         <nav class="menu">
             <?php foreach ($site->children()->listed() as $subpage): ?>
-            <a href="<?= $subpage->url() ?>"><?= $subpage->title() ?>.</a>
+            <a href="<?= $subpage->url() ?>"><?= $subpage->title() ?></a>
             <?php endforeach ?>
         </nav>
 
