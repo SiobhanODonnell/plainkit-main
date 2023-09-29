@@ -5,8 +5,7 @@
         <li>
             <a href="<?= $project->url() ?>">
                 <?= $project->image()->crop(1200) ?>
-                <?= $project->title() ?><br>
-                <?= $project->client() ?>
+                <?= $project->preview() ?>
             </a>
         </li>
         <?php endforeach ?>

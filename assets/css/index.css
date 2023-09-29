@@ -8,22 +8,22 @@
   
 @font-face {
     font-family: "Unica77LLSub-Regular";
-    src: url("http://localhost:8888/plainkit-main/assets/fonts/Unica77LLSub-Regular.woff") format("woff");
+    src: url("https://www.odonnelldesign.com/assets/fonts/Unica77LLSub-Regular.woff") format("woff");
 }
   
 @font-face {
     font-family: "Unica77LLSub-Regular";
-    src: url("http://localhost:8888/plainkit-main/assets/fonts/Unica77LLSub-Regular.woff2") format("woff2");
+    src: url("https://www.odonnelldesign.com/assets/fonts/Unica77LLSub-Regular.woff2") format("woff2");
 }
 
 @font-face {
     font-family: "Unica77LLSub-Bold";
-    src: url("http://localhost:8888/plainkit-main/assets/fonts/Unica77LLSub-Bold.woff") format("woff");
+    src: url("https://www.odonnelldesign.com/assets/fonts/Unica77LLSub-Bold.woff") format("woff");
 }
   
 @font-face {
     font-family: "Unica77LLSub-Bold";
-    src: url("http://localhost:8888/plainkit-main/assets/fonts/Unica77LLSub-Bold.woff2") format("woff2");
+    src: url("https://www.odonnelldesign.com/assets/fonts/Unica77LLSub-Bold.woff2") format("woff2");
 }
 
 a {
@@ -42,6 +42,7 @@ html {
     font-size: 16px;
     line-height: 22.4px;
     color: #333;
+    -webkit-text-size-adjust: 100%;
 }
 
 body {
