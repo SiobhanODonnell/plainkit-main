@@ -1,13 +1,5 @@
 Title: Work
-
 ----
-
 Tagline: Graphic design & art direction for brands.
-
 ----
-
-Cta: Let's work together.
-
-----
-
-Uuid: hvDwU6Lbhr74qEzg
+CTA: Let's work together.
