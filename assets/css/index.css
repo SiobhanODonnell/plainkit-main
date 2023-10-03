@@ -106,6 +106,19 @@ img {
     list-style: none;
 }
 
+.masonry {
+    columns: 30rem;
+    column-gap: 1rem;
+    list-style: none;
+    margin-bottom: 1rem;
+    line-height: 0px;
+}
+
+.masonry img {
+    margin-bottom: 1rem;
+    border-radius: 20px;
+}
+
 .tagline {
     margin-top: 6rem;
     font-family: "Unica77LLSub-Regular";

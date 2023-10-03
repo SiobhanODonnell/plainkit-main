@@ -1,11 +1,25 @@
-Preview: Onboarding Guide for ExecOnline
-----
 Title: <span class="tag">Project</span> — Onboarding Guide
+
 ----
+
+Preview: Onboarding Guide for ExecOnline
+
+----
+
 Client: <span class="tag">Client</span> — ExecOnline
+
 ----
+
 Year: <span class="tag">Year</span> — 2022
+
 ----
+
 Description: ExecOnline is a pioneer in the online leadership development space. In tandem with the company's rapid expansion, this guide was created to facilitate the onboarding process for new marketing team members.
+
 ----
+
 Credit1: <span class="tag">Design & Copy</span> — Siobhan O'Donnell
+
+----
+
+Uuid: Cc4k1BvGcnUXOeae

@@ -1,0 +1,25 @@
+Title: <span class="tag">Project</span> — Food Photography
+
+----
+
+Preview: Food Photography for IFF
+
+----
+
+Client: <span class="tag">Client</span> — IFF
+
+----
+
+Year: <span class="tag">Year</span> — 2023
+
+----
+
+Description:
+
+----
+
+Credit1: <span class="tag">Styling & Photography</span> — Siobhan O'Donnell
+
+----
+
+Uuid: OZk90YnaofWLi7pj

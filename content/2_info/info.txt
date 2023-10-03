@@ -1,25 +1,53 @@
 Title: Info
+
 ----
+
 Tagline: Graphic design & art direction for brands.
+
 ----
+
 Bio: Siobhan O'Donnell is a graphic designer and art director partnering with in-house marketing teams across industries. As a design generalist, she loves to get involved in all aspects of a brand’s visual identity—from marketing campaigns to environmental graphics to web design. Siobhan holds a BFA in Communications Design from Pratt Institute, and lives in New Jersey with her husband and two daughters.
+
 ----
+
 Headline: Services
+
 ----
+
 Item1: - Brand Identity Design
+
 ----
+
 Item2: - Print Collateral Design
+
 ----
+
 Item3: - Packaging Design
+
 ----
+
 Item4: - Environmental Graphic Design
+
 ----
+
 Item5: - Social Media Design
+
 ----
+
 Item6: - Web Design
+
 ----
+
 Item7: - Vendor Management
+
 ----
+
 Headline2: Contact
+
 ----
+
 Contact: For all work inquiries, please email <a class="email" href="mailto:hello@odonnelldesign.com">hello@odonnelldesign.com</a>.
+
+----
+
+Uuid: FUDx0ynXuFVfvPVk

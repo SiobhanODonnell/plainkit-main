@@ -1,11 +1,25 @@
-Preview: Quick Start Guide for ExecOnline
-----
 Title: <span class="tag">Project</span> — Quick Start Guide
+
 ----
+
+Preview: Quick Start Guide for ExecOnline
+
+----
+
 Client: <span class="tag">Client</span> — ExecOnline
+
 ----
+
 Year: <span class="tag">Year</span> — 2022
+
 ----
+
 Description: ExecOnline is a pioneer in the online leadership development space. When need arose for a new sales presentation system, the creative team designed a robust PowerPoint template complete with asset libraries. This quick start guide was created to train the sales team on the new tools.
+
 ----
+
 Credit1: <span class="tag">Design & Copy</span> — Siobhan O'Donnell
+
+----
+
+Uuid: sHKbjLM2lLtcCHIG

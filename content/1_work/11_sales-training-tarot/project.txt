@@ -1,11 +1,25 @@
-Preview: Sales Training Tarot for Codman Specialty Surgical
-----
 Title: <span class="tag">Project</span> — Sales Training Tarot
+
 ----
+
+Preview: Sales Training Tarot for Codman Specialty Surgical
+
+----
+
 Client: <span class="tag">Client</span> — Codman Specialty Surgical
+
 ----
+
 Year: <span class="tag">Year</span> — 2018
+
 ----
-Description: When Codman Specialty Surgical was acquired by Integra LifeSciences, newly integrated sales teams needed to quickly learn about an expanded product portfolio. To address this, a training tool was developed in the form of a tarot deck, with each card showcasing a different product. The pattern which runs through the deck ties together the themes of tarot and neurosurgery. 
+
+Description: When Codman Specialty Surgical was acquired by Integra LifeSciences, newly integrated sales teams needed to quickly learn about an expanded product portfolio. To address this, a training tool was developed in the form of a tarot deck, with each card showcasing a different product. The pattern which runs through the deck ties together the themes of tarot and neurosurgery.
+
 ----
+
 Credit1: <span class="tag">Design</span> — Siobhan O'Donnell
+
+----
+
+Uuid: HcR9kJJwRQSWnFeJ
