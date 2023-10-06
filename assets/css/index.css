@@ -31,7 +31,7 @@ a {
     text-decoration: none;
 }
 
-.callout, .cta, .email {
+.cta, .email {
     color: #e94196;
 }
 
@@ -94,7 +94,7 @@ img {
     grid-gap: 2rem;
 }
 
-.tag, .services-header {
+.tag, .services-header, .callout {
     font-family: "Unica77LLSub-Bold";
 }
 
@@ -199,6 +199,12 @@ img {
         list-style: none;
         margin-bottom: 1rem;
         line-height: 0px;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .callout {
+        font-size: 16px;
     }
 }
 
