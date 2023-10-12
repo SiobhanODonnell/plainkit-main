@@ -18,7 +18,9 @@
 <body>
 
     <header>
-        <a href="<?= $site->url() ?>">O'Donnell <br>Design</a>
+        <a href="<?= $site->url() ?>">
+            <img src="<?= url('assets/img/logo.svg') ?>" alt="logo" class="logo" style="width: 175px; height: auto;">
+        </a>
 
         <nav class="menu">
             <?php foreach ($site->children()->listed() as $subpage): ?>

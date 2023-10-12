@@ -32,7 +32,8 @@ a {
 }
 
 .cta, .email {
-    color: #e94196;
+    color: #f15a22;
+    font-family: "Unica77LLSub-Bold";
 }
 
 html {
@@ -59,7 +60,11 @@ header {
 }
 
 header a:hover {
-    color: #e94196;
+    color: #f15a22;
+}
+
+.logo {
+    margin-bottom: 0rem;
 }
 
 .menu {
@@ -70,6 +75,7 @@ header a:hover {
 .menu a {
     margin-left: 1.5rem;
     text-align: right;
+    color: #8d8b55;
 }
 
 h1 {
@@ -199,12 +205,6 @@ img {
         list-style: none;
         margin-bottom: 1rem;
         line-height: 0px;
-    }
-}
-
-@media only screen and (max-width: 450px) {
-    .callout {
-        font-size: 16px;
     }
 }
 

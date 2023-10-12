@@ -2,11 +2,11 @@ Title: <span class="tag">Project</span> — Sparkling Cider Packaging
 
 ----
 
-Preview: Sparkling Cider Packaging for Anheuser-Busch InBev, via IFF
+Preview: <span class="preview">Sparkling Cider Packaging</span>
 
 ----
 
-Client: <span class="tag">Client</span> — Anheuser-Busch InBev, via IFF
+Client: <span class="tag">Client</span> — IFF
 
 ----
 
@@ -14,7 +14,7 @@ Year: <span class="tag">Year</span> — 2023
 
 ----
 
-Description: International Flavors & Fragrances (IFF) creates innovative ingredients for today's beverage market. This collection of three fruity sparkling cider flavors was developed for Anheuser-Busch InBev.
+Description: International Flavors & Fragrances (IFF) creates innovative ingredients for today's beverage market. This collection of three fruity sparkling cider flavors was developed for one of the world's largest breweries.
 
 ----
 

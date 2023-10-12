@@ -2,7 +2,7 @@ Title: <span class="tag">Project</span> — Food Photography
 
 ----
 
-Preview: Food Photography for IFF
+Preview: <span class="preview">Food Photography</span>
 
 ----
 

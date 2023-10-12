@@ -2,11 +2,11 @@ Title: <span class="tag">Project</span> — Fiber-Infused Water Packaging
 
 ----
 
-Preview: Fiber-Infused Water Packaging for Anheuser-Busch InBev, via IFF
+Preview: <span class="preview">Fiber-Infused Water Packaging</span>
 
 ----
 
-Client: <span class="tag">Client</span> — Anheuser-Busch InBev, via IFF
+Client: <span class="tag">Client</span> — IFF
 
 ----
 
@@ -14,7 +14,7 @@ Year: <span class="tag">Year</span> — 2023
 
 ----
 
-Description: International Flavors & Fragrances (IFF) creates innovative ingredients for today's beverage market. This series of refreshing fiber-infused water flavors was developed for Anheuser-Busch InBev.
+Description: International Flavors & Fragrances (IFF) creates innovative ingredients for today's beverage market. This series of refreshing fiber-infused water flavors was developed for a leading beverage company.
 
 ----
 
