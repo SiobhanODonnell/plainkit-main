@@ -19,7 +19,7 @@
 
     <header>
         <a href="<?= $site->url() ?>">
-            <img src="<?= url('assets/img/logo.svg') ?>" alt="logo" class="logo" style="width: 175px; height: auto;">
+            <img src="<?= url('assets/img/logo.svg') ?>" alt="logo" class="logo" style="width: 203px; height: auto;">
         </a>
 
         <nav class="menu">

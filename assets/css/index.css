@@ -8,22 +8,22 @@
   
 @font-face {
     font-family: "Unica77LLSub-Regular";
-    src: url("https://www.odonnelldesign.com/assets/fonts/Unica77LLSub-Regular.woff") format("woff");
+    src: url("../fonts/Unica77LLSub-Regular.woff") format("woff");
 }
   
 @font-face {
     font-family: "Unica77LLSub-Regular";
-    src: url("https://www.odonnelldesign.com/assets/fonts/Unica77LLSub-Regular.woff2") format("woff2");
+    src: url("../fonts/Unica77LLSub-Regular.woff2") format("woff2");
 }
 
 @font-face {
     font-family: "Unica77LLSub-Bold";
-    src: url("https://www.odonnelldesign.com/assets/fonts/Unica77LLSub-Bold.woff") format("woff");
+    src: url("../fonts/Unica77LLSub-Bold.woff") format("woff");
 }
   
 @font-face {
     font-family: "Unica77LLSub-Bold";
-    src: url("https://www.odonnelldesign.com/assets/fonts/Unica77LLSub-Bold.woff2") format("woff2");
+    src: url("../fonts/Unica77LLSub-Bold.woff2") format("woff2");
 }
 
 a {
@@ -65,6 +65,7 @@ header a:hover {
 
 .logo {
     margin-bottom: 0rem;
+    margin-top: 3px;
 }
 
 .menu {
@@ -75,7 +76,6 @@ header a:hover {
 .menu a {
     margin-left: 1.5rem;
     text-align: right;
-    color: #8d8b55;
 }
 
 h1 {
