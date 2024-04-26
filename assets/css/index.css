@@ -32,7 +32,7 @@ a {
 }
 
 .cta, .email {
-    color: #f15a22;
+    color: #c6973f;
     font-family: "Unica77LLSub-Bold";
 }
 
@@ -60,12 +60,12 @@ header {
 }
 
 header a:hover {
-    color: #f15a22;
+    color: #c6973f;
 }
 
 .logo {
     margin-bottom: 0rem;
-    margin-top: 3px;
+    margin-top: 4px;
 }
 
 .menu {
@@ -83,8 +83,67 @@ h1 {
     font-size: 18px;
     font-weight: normal;
     line-height: 22.4px;
+    margin-top: 0rem;
+}
+
+/* PASSWORD PROTECTED WORK */
+form {
     margin-top: 6rem;
 }
+
+input {
+    font-family: "Unica77LLSub-Regular";
+    font-size: 16px;
+    color: #999;
+    -webkit-text-size-adjust: 100%;
+    padding: 10px 20px; /* Adds padding inside the input field */
+    margin: 0 15px 15px 0; /* Optional: adds space around the input field */
+    border: .5px solid #999; /* Optional: adds a border around the input field */
+    width: 300px; /* Optional: adjusts the width of the input field */
+    border-radius: 0px; /* Rounded corners */
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    font-family: "Unica77LLSub-Regular";
+    font-size: 16px;
+    color: #999;
+}
+::-moz-placeholder { /* Firefox 19+ */
+    font-family: "Unica77LLSub-Regular";
+    font-size: 16px;
+    color: #999;
+    opacity: 1; /* Firefox reduces the opacity by default */
+}
+:-ms-input-placeholder { /* IE 10+ */
+    font-family: "Unica77LLSub-Regular";
+    font-size: 16px;
+    color: #999;
+}
+:-moz-placeholder { /* Firefox 18- */
+    font-family: "Unica77LLSub-Regular";
+    font-size: 16px;
+    color: #999;
+    opacity: 1; /* Firefox reduces the opacity by default */
+}
+
+button {
+    font-family: "Unica77LLSub-Bold";
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: #eaf586;
+    color: #333;
+    border: .5px solid #eaf586;
+    cursor: pointer;
+    border-radius: 0px;
+    margin: 0px 0 30px 0;
+    font-weight: normal;
+}
+
+button:hover {
+    background-color: #eee;
+    border: .5px solid #eee;
+}
+/* END - PASSWORD PROTECTED WORK */
 
 img {
     width: 100%;
@@ -104,7 +163,11 @@ img {
     margin-bottom: .5rem;
 }
 
-.tag, .services-header, .callout {
+.info-header {
+    margin-bottom: 5px;
+}
+
+.tag, .info-header, .callout {
     font-family: "Unica77LLSub-Bold";
 }
 
@@ -199,6 +262,12 @@ img {
         list-style: none;
         margin-bottom: 1rem;
         line-height: 0px;
+    }
+}
+
+@media only screen and (max-width: 536px) {
+    .password {
+        width: 100%;
     }
 }
 
