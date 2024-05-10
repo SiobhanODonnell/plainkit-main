@@ -31,9 +31,24 @@ a {
     text-decoration: none;
 }
 
-.cta, .email {
+.contact {
+    margin-top: 6rem;
+}
+
+.contact-email {
     color: #c6973f;
     font-family: "Unica77LLSub-Bold";
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22.4px;
+}
+
+.email {
+    color: #c6973f;
+    font-family: "Unica77LLSub-Bold";
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22.4px;
 }
 
 html {
@@ -190,15 +205,6 @@ img {
 .masonry img {
     margin-bottom: 1rem;
     border-radius: 20px;
-}
-
-.tagline {
-    margin-top: 6rem;
-    font-family: "Unica77LLSub-Regular";
-    font-weight: normal;
-    font-size: 16px;
-    line-height: 22.4px;
-    color: #333; 
 }
 
 .next {

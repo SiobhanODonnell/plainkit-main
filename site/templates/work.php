@@ -54,5 +54,5 @@ endif;
         <?php endforeach ?>
     </ul>
 
-<?php snippet ('tagline') ?>
+<?php snippet ('contact') ?>
 <?php snippet ('footer') ?>

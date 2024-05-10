@@ -36,5 +36,5 @@
         <a class="next" href="<?= $page->nextListed()->url() ?>">Next Project</a>
     <?php endif ?>
 
-<?php snippet ('tagline') ?>
+<?php snippet ('contact') ?>
 <?php snippet ('footer') ?>

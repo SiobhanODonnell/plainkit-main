@@ -14,7 +14,7 @@
             <li><?= $page->item8() ?></li><br>
         </ul>
         <p class="info-header"><?= $page->headline3() ?></p>
-        <p><?= $page->email() ?></p>
+        <p class="email"><?= $page->email() ?></p>
     </div>
 
 <?php snippet ('footer') ?>

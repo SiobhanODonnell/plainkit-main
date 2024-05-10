@@ -1,1 +1,11 @@
 Title: O'Donnell Design
+
+----
+
+Headline3: Email
+
+----
+
+Email: <a class="email" href="mailto:hello@odonnelldesign.com">hello@odonnelldesign.com</a>
+
+----
