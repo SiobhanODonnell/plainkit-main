@@ -2,6 +2,9 @@
 
 <?php
 
+// Set the session cookie to expire when the browser closes
+session_set_cookie_params(0);
+
 // Start a session to keep track of authentication status
 session_start();
 

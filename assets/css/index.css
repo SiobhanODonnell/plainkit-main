@@ -29,6 +29,7 @@
 a {
     color: currentColor;
     text-decoration: none;
+    cursor: pointer !important;
 }
 
 .contact {
@@ -43,12 +44,20 @@ a {
     line-height: 22.4px;
 }
 
+a.contact-email {
+    cursor: pointer !important;
+}
+
 .email {
     color: #c6973f;
     font-family: "Unica77LLSub-Bold";
     font-weight: normal;
     font-size: 16px;
     line-height: 22.4px;
+}
+
+a.email {
+    cursor: pointer !important;
 }
 
 html {
@@ -81,6 +90,11 @@ header a:hover {
 .logo {
     margin-bottom: 0rem;
     margin-top: 4px;
+    cursor: pointer;
+}
+
+a.logo {
+    cursor: pointer !important;
 }
 
 .menu {
@@ -148,7 +162,7 @@ button {
     background-color: #eaf586;
     color: #333;
     border: .5px solid #eaf586;
-    cursor: pointer;
+    cursor: pointer !important;
     border-radius: 0px;
     margin: 0px 0 30px 0;
     font-weight: normal;
