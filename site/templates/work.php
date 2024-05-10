@@ -50,7 +50,12 @@ endif;
         <?php foreach ($page->children()->listed() as $project): ?>
         <li>
             <a href="<?= $project->url() ?>">
-                <?= $project->image()->crop(1200) ?>
+                <?php
+                // Retrieve the URL of the cropped image
+                $image = $project->image()->crop(1200);
+                if ($image): ?>
+                    <img src="<?= $image->url() ?>" alt="<?= $project->image()->alt() ?>" loading="lazy">
+                <?php endif; ?>
                 <?= $project->preview() ?>
             </a>
         </li>

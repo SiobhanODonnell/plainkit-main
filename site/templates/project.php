@@ -19,11 +19,11 @@
 
     <ul class="gallery">
         <?php foreach ($page->images()->offset(1) as $image): ?>
-        <li>
-            <a href="<?= $image->url() ?>">
-                <?= $image ?>
-            </a>
-        </li>
+            <li>
+                <a href="<?= $image->url() ?>">
+                    <img src="<?= $image->url() ?>" alt="<?= $image->alt() ?>" loading="lazy">
+                </a>
+            </li>
         <?php endforeach ?>
     </ul>
 
