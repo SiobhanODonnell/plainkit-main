@@ -1,12 +1,16 @@
-Title: <span class="tag">Project</span> — Fiber-Infused Water Packaging
+Title: <span class="tag">Project</span> — Fruity Sparkling Cider
 
 ----
 
-Preview: <span class="preview">Fiber-Infused Water Packaging</span>
+Preview: <span class="preview">Fruity Sparkling Cider for AB InBev</span>
 
 ----
 
-Client: <span class="tag">Client</span> — IFF
+ClientThumb: AB InBev
+
+----
+
+Client: <span class="tag">Client</span> — AB InBev
 
 ----
 
@@ -14,7 +18,7 @@ Year: <span class="tag">Year</span> — 2023
 
 ----
 
-Description: International Flavors & Fragrances (IFF) creates innovative ingredients for today's beverage market. This series of refreshing fiber-infused water flavors was developed for a leading beverage company.
+Description: International Flavors & Fragrances (IFF) creates innovative ingredients for today's beverage market. This collection of three fruity sparkling cider flavors was developed for one of the world's largest breweries.
 
 ----
 
@@ -38,4 +42,4 @@ Credit5: <span class="tag">Packaging Design</span> — Siobhan O'Donnell
 
 ----
 
-Uuid: eGd6OT97QwmuUJqf
+Uuid: Jf84ZUPiZcG6j671

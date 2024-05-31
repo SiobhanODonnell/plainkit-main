@@ -1,8 +1,8 @@
-Title: <span class="tag">Project</span> — Food Photography
+Title: <span class="tag">Project</span> — Bakery, Bars, and Cereal Photography
 
 ----
 
-Preview: <span class="preview">Food Photography</span>
+Preview: <span class="preview">Bakery, Bars, and Cereal Photography for IFF</span>
 
 ----
 
