@@ -65,3 +65,14 @@ Header set Content-Type "text/plain" "expr=-z %{CONTENT_TYPE}"
 Header set X-Content-Type-Options "nosniff"
 
 </IfModule>
+
+# Add WebP MIME type
+<IfModule mod_mime.c>
+    AddType image/webp .webp
+</IfModule>
+
+# Cache settings for webp images
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType image/webp "access plus 1 month"
+</IfModule>

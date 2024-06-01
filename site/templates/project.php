@@ -1,17 +1,17 @@
 <?php snippet('header') ?>
 
-<!-- Main Image -->
-<?php if ($image = $page->image()): ?>
-    <a href="<?= $image->url() ?>">
-        <img
-            src="<?= $image->url() ?>"
-            srcset="<?= $image->srcset([300, 600, 900, 1200, 1800]) ?>"
-            sizes="(min-width: 1200px) 25vw,
-                   (min-width: 900px)  33vw,
-                   (min-width: 600px)  50vw,
-                   100vw"
-            alt="<?= $image->alt() ?>"
-        >
+<?php
+// Fetch the first image for the main image
+$mainImage = $page->images()->filterBy('extension', 'webp')->first() ?: $page->images()->first();
+?>
+<?php if ($mainImage): ?>
+    <a href="<?= $mainImage->url() ?>">
+        <picture>
+            <?php if ($mainImage->extension() == 'webp'): ?>
+                <source srcset="<?= $mainImage->url() ?>" type="image/webp">
+            <?php endif ?>
+            <img src="<?= $mainImage->extension() == 'webp' ? $mainImage->parent()->image($mainImage->name() . '.png')->url() : $mainImage->url() ?>" alt="">
+        </picture>
     </a>
 <?php endif ?>
 
@@ -26,21 +26,27 @@
     <li><p><?= $page->credit5() ?></p></li>
 </ul>
 
-<!-- Gallery -->
 <ul class="gallery">
-    <?php foreach ($page->images()->offset(1) as $image): ?>
+    <?php
+    // Get all images for the gallery, prefer webp if available, fallback to png
+    $galleryImages = $page->images()->offset(2)->filter(function($image) {
+        return $image->extension() === 'webp' || !$image->parent()->image($image->name() . '.webp');
+    });
+    ?>
+    <?php foreach ($galleryImages as $image): ?>
+        <?php
+        // Fetch the corresponding PNG image for fallback if the current image is webp
+        $imageWebp = $image->extension() === 'webp' ? $image : null;
+        $imagePng = $imageWebp ? $image->parent()->image($imageWebp->name() . '.png') : $image;
+        ?>
         <li>
             <a href="<?= $image->url() ?>">
-                <img
-                    src="<?= $image->url() ?>"
-                    srcset="<?= $image->srcset([300, 600, 900, 1200, 1800]) ?>"
-                    sizes="(min-width: 1200px) 25vw,
-                           (min-width: 900px)  33vw,
-                           (min-width: 600px)  50vw,
-                           100vw"
-                    alt="<?= $image->alt() ?>"
-                    loading="lazy"
-                >
+                <picture>
+                    <?php if ($imageWebp): ?>
+                        <source srcset="<?= $imageWebp->url() ?>" type="image/webp">
+                    <?php endif ?>
+                    <img src="<?= $imagePng->url() ?>" alt="<?= $image->alt() ?>" loading="lazy">
+                </picture>
             </a>
         </li>
     <?php endforeach ?>
