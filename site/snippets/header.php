@@ -3,6 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><?= $site->title() ?></title>
+    <?php snippet('fade-in') ?>
 
     <?= css('assets/css/index.css') ?>
 
@@ -30,7 +31,7 @@
 </head>
 <body>
 
-    <header>
+    <header class="fade-in">
         <a href="<?= $site->url() ?>">
             <img src="<?= url('assets/img/logo.svg') ?>" alt="logo" class="logo" style="width: auto; height: 36px;">
         </a>
