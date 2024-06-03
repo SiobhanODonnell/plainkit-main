@@ -1,7 +1,5 @@
 <?php snippet ('header') ?>
 
-<main class="fade-in">
-
     <div class="about">
         <p class="info-header"><?= $page->headline1() ?></p>
         <p><?= $page->bio() ?></p><br>
@@ -18,7 +16,5 @@
         <p class="info-header"><?= $page->headline3() ?></p>
         <p class="email"><?= $page->email() ?></p>
     </div>
-
-</main>
 
 <?php snippet ('footer') ?>

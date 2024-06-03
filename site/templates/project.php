@@ -1,7 +1,5 @@
 <?php snippet('header') ?>
 
-<main class="fade-in">
-
     <?php  
     // Fetch the first image for the main image
     $mainImage = $page->images()->filterBy('extension', 'webp')->first() ?: $page->images()->first();
@@ -61,8 +59,6 @@
     <?php if ($page->hasNextListed()): ?>
         <a class="next" href="<?= $page->nextListed()->url() ?>">Next Project</a>
     <?php endif ?>
-
-</main>
 
 <?php snippet('contact') ?>
 <?php snippet('footer') ?>

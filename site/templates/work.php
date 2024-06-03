@@ -1,7 +1,5 @@
 <?php snippet ('header') ?>
 
-<main class="fade-in">
-
     <?php
     // Set the session cookie to expire when the browser closes
     session_set_cookie_params(0);
@@ -62,8 +60,6 @@
             </li>
             <?php endforeach ?>
         </ul>
-
-</main>
 
 <?php snippet ('contact') ?>
 <?php snippet ('footer') ?>

@@ -31,7 +31,7 @@
 </head>
 <body>
 
-    <header class="fade-in">
+    <header>
         <a href="<?= $site->url() ?>">
             <img src="<?= url('assets/img/logo.svg') ?>" alt="logo" class="logo" style="width: auto; height: 36px;">
         </a>
