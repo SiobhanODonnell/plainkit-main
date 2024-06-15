@@ -48,6 +48,10 @@ a.contact-email {
     cursor: pointer !important;
 }
 
+.contact-phone {
+    text-decoration: none;
+}
+
 .email {
     color: #c6973f;
     font-family: "Unica77LLSub-Bold";
