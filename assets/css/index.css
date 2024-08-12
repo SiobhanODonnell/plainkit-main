@@ -44,12 +44,18 @@ a {
     line-height: 22.4px;
 }
 
-a.contact-email {
-    cursor: pointer !important;
-}
-
 .contact-phone {
     text-decoration: none;
+}
+
+.contact-phone a {
+    text-decoration: none !important;
+    color: inherit !important; /* Optional: maintain consistent color */
+}
+
+p.contact-phone a {
+    text-decoration: none !important;
+    color: inherit !important; /* Optional: maintain consistent color */
 }
 
 .email {
@@ -183,6 +189,10 @@ img {
     margin-bottom: 1.5rem;
     padding-bottom: 0;
 
+}
+
+video {
+    margin-bottom: 1.5rem;
 }
 
 .projects {

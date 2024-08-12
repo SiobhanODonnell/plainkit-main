@@ -1,0 +1,25 @@
+Title: <span class="tag">Project</span> — Mike's Hard Juice
+
+----
+
+Preview: <span class="preview">Mike's Hard Juice</span>
+
+----
+
+Client: <span class="tag">Client</span> — Mark Anthony Group
+
+----
+
+Year: <span class="tag">Year</span> — 2024
+
+----
+
+Description:
+
+----
+
+Credit1: <span class="tag">Styling & Photography</span> — Siobhan O'Donnell
+
+----
+
+Uuid: OZk90YnaofWLi7pj
