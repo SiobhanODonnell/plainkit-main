@@ -89,7 +89,6 @@ header {
     display: flex;
     justify-content: space-between;
     font-family: "Unica77LLSub-Bold";
-    font-size: 18px;
     line-height: 22.4px;
 }
 
@@ -99,7 +98,7 @@ header a:hover {
 
 .logo {
     margin-bottom: 0rem;
-    margin-top: 4px;
+    margin-top: 7.25px;
     cursor: pointer;
 }
 
@@ -137,7 +136,7 @@ input {
     -webkit-text-size-adjust: 100%;
     padding: 10px 20px; /* Adds padding inside the input field */
     margin: 0 15px 15px 0; /* Optional: adds space around the input field */
-    border: .5px solid #999; /* Optional: adds a border around the input field */
+    border: .5px solid #c3c3c3; /* Optional: adds a border around the input field */
     width: 300px; /* Optional: adjusts the width of the input field */
     border-radius: 0px; /* Rounded corners */
 }
@@ -169,9 +168,9 @@ button {
     font-family: "Unica77LLSub-Bold";
     font-size: 16px;
     padding: 10px 20px;
-    background-color: #eaf586;
+    background-color: #eee;
     color: #333;
-    border: .5px solid #eaf586;
+    border: .5px solid #eee;
     cursor: pointer !important;
     border-radius: 0px;
     margin: 0px 0 30px 0;
@@ -179,8 +178,8 @@ button {
 }
 
 button:hover {
-    background-color: #eee;
-    border: .5px solid #eee;
+    background-color: #c6973f;
+    border: .5px solid #c6973f;
 }
 /* END - PASSWORD PROTECTED WORK */
 
