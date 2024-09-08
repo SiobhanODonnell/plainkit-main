@@ -17,6 +17,16 @@
 }
 
 @font-face {
+    font-family: "Unica77LLSub-Medium";
+    src: url("../fonts/Unica77LLSub-Medium.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Unica77LLSub-Medium";
+    src: url("../fonts/Unica77LLSub-Medium.woff2") format("woff2");
+}
+
+@font-face {
     font-family: "Unica77LLSub-Bold";
     src: url("../fonts/Unica77LLSub-Bold.woff") format("woff");
 }
@@ -38,7 +48,7 @@ a {
 
 .contact-email {
     color: #c6973f;
-    font-family: "Unica77LLSub-Bold";
+    font-family: "Unica77LLSub-Medium";
     font-weight: normal;
     font-size: 16px;
     line-height: 22.4px;
@@ -60,7 +70,7 @@ p.contact-phone a {
 
 .email {
     color: #c6973f;
-    font-family: "Unica77LLSub-Bold";
+    font-family: "Unica77LLSub-Medium";
     font-weight: normal;
     font-size: 16px;
     line-height: 22.4px;
