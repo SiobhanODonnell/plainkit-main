@@ -67,7 +67,7 @@ Item12: - Website Design
 
 ----
 
-Headline3: Email
+Headline3: Contact
 
 ----
 
@@ -75,7 +75,7 @@ Email: <a class="email" href="mailto:hello@odonnelldesign.com">hello@odonnelldes
 
 ----
 
-Headline4: Social
+Headline4: Connect
 
 ----
 

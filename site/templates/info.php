@@ -1,7 +1,6 @@
 <?php snippet ('header') ?>
 
     <div class="about">
-        <p class="info-header"><?= $page->headline1() ?></p>
         <p><?= $page->bio() ?></p><br>
         <ul class="services"><p class=info-header><?= $page->headline2() ?></p>
             <li><?= $page->item1() ?></li>
