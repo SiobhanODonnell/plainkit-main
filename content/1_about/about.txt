@@ -1,0 +1,129 @@
+Title: About
+
+----
+
+Tagline: <span class="accent1">Brand & Marketing Design That Connects.</span>
+
+----
+
+Headline1: About
+
+----
+
+Headline1: About
+
+----
+
+Shortbio: Siobhan O’Donnell is a Brand & Marketing Designer who supports her corporate clients through visual design that beautifully aligns with their brand strategy & values.
+
+----
+
+Bio1: With over a decade of experience, Siobhan O'Donnell has built a reputation as a versatile Brand & Marketing Designer who thrives on creating cohesive brand systems. From logos and packaging to brand guides, she ensures every touchpoint reflects her clients’ values and strategy. Her expertise spans industries like MedTech, EdTech, and consumer goods, where she has delivered design solutions that bring clarity, consistency, and impact.
+
+----
+
+Bio2: Siobhan is a trusted creative partner for companies seeking polished marketing collateral, tradeshow booths, HTML emails, and videos. Her work blends strategy with creativity to help brands connect and inspire. A graduate of Pratt Institute, she brings a strong foundation in Communications Design to every project, along with a passion for thoughtful, purpose-driven design.
+
+----
+
+Headline2: Capabilities
+
+----
+
+Subheadline1: Brand Design
+
+----
+
+Item1: Logos
+
+----
+
+Item2: Icons
+
+----
+
+Item3: Stationery
+
+----
+
+Item4: Identity Systems
+
+----
+
+Item5: Brand Guides
+
+----
+
+Item6: Packaging
+
+----
+
+Item7: Environmental Graphics
+
+----
+
+Item8: Photography
+
+----
+
+Subheadline2: Marketing Design
+
+----
+
+Item9: Infographics 
+
+----
+
+Item10: Presentations 
+
+----
+
+Item11: Print Collateral
+
+----
+
+Item12: Tradeshow Booths
+
+----
+
+Item13: Social Media Graphics
+
+----
+
+Item14: Motion Graphics
+
+----
+
+Item15: Digital Assets
+
+----
+
+Item16: Videos
+
+----
+
+Headline3: Email
+
+----
+
+Email: <a class="email" href="mailto:hello@odonnelldesign.com">hello@odonnelldesign.com</a>
+
+----
+
+Headline4: Follow
+
+----
+
+Social1: <a class="email" href="https://www.linkedin.com/in/odonnelldesign/" target="_blank">LinkedIn</a>
+
+----
+
+Social2: <a class="email" href="https://dribbble.com/siobhanodonnell" target="_blank">Dribbble</a>
+
+----
+
+Social3: <a class="email" href="https://bsky.app/profile/odonnelldesign.com" target="_blank">Bluesky</a>
+
+----
+
+Uuid: FUDx0ynXuFVfvPVk

@@ -15,7 +15,7 @@ columns:
     sections:
       pages:
         type: pages
-        template: info
+        template: about
       files:
         type: files
 

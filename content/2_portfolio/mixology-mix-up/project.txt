@@ -1,12 +1,12 @@
-Title: <span class="tag">Project</span> — Virtual Home
+Title: <span class="tag">Project</span> — What's the Occasion?
 
 ----
 
-Preview: <span class="preview">Trendsformed</span>
+Preview: <span class="preview">Mixology Mix-up</span>
 
 ----
 
-Client: <span class="tag">Client</span> — Virtual Home
+Client: <span class="tag">Client</span> — IFF
 
 ----
 

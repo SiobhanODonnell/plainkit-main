@@ -1,8 +1,8 @@
-Title: <span class="tag">Project</span> — Stationery
+Title: <span class="tag">Project</span> — MoWicked
 
 ----
 
-Preview: <span class="preview">Stationery</span>
+Preview: <span class="preview">MoWicked</span>
 
 ----
 
